@@ -5,8 +5,8 @@ A comprehensive guide to installing and managing your Dria node efficiently. Fol
 ---
 
 ## Official Resources
-- **Official Website for More Guides**: [https://dria.co/join](https://dria.co/join)  
-- **Check Leaderboard**: [https://steps.leaderboard.dria.co/](https://steps.leaderboard.dria.co/)
+- **Official Website**: [https://dria.co/join](https://dria.co)  
+- **Official X**: [https://x.com/driaforall)
 
 ---
 
