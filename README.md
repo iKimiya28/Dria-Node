@@ -6,7 +6,7 @@ A comprehensive guide to installing and managing your Dria node efficiently. Fol
 
 ## Official Resources
 - **Official Website**: [https://dria.co/join](https://dria.co)  
-- **Official X**: [https://x.com/driaforall)
+- **Official X**: https://x.com/driaforall
 
 ---
 
@@ -96,7 +96,7 @@ Start the Dria Node with the following command:
 Once the setup is complete, the node will verify your hardware requirements. This process may take a few minutes.
 
 ### Running Node on Screen
-To keep your node running in the background:
+To keep your node running in the background, Stop the node pressing CTRL+C Then:
 ```bash
 screen -S dkn
 ./dkn-compute-launcher
