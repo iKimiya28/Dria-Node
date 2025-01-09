@@ -82,7 +82,7 @@ Start the Dria Node with the following command:
 ```
 
 ### Notes:
-1. **Metamask Private Key**: Enter your Metamask Private Key without the `0x` prefix.
+1. **DKN Wallet**: Enter Metamask Private Key without the `0x` prefix.
 2. **Model Selection**:  
    - The higher the model, the more points you earn. Select a model based on your VPS resources.  
    - Example: `"qwen 2.5-coder:1.5b"` is suitable for most VPS systems. Ensure other processes are stopped to free resources if needed.  
@@ -106,3 +106,4 @@ screen -S dkn
 
 ## Additional Information
 - **Earn the Node-Keeper Role**: Join the Dria Discord community and claim your **Node-Keeper** role after successfully setting up your node.
+- **Check Leaderboard**: [https://steps.leaderboard.dria.co/](https://steps.leaderboard.dria.co/)
