@@ -1,7 +1,7 @@
 # Dria Node Setup Guide
 
 A comprehensive guide to installing and managing your Dria node efficiently. Follow the steps below to ensure a smooth setup.
-
+Note Note Note:  to run ollama models make sure your ping is under 2ms.
 ---
 
 ## Official Resources
